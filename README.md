@@ -15,3 +15,17 @@ This repository contains automated test scripts for API and UI testing as per th
 ### Prerequisites
 - Python 3.x installed
 - Google Chrome and ChromeDriver
+
+### Tests running
+
+- UI tests running:
+```sh 
+   cd ui_tests
+   pytest ui_yest.py
+```
+
+- API tests running:
+```shell
+   cd api_tests
+   pytest test_api.py
+```
