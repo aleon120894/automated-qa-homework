@@ -29,3 +29,9 @@ This repository contains automated test scripts for API and UI testing as per th
    cd api_tests
    pytest test_api.py
 ```
+
+- Running all tests:
+```sh
+   cd automated-qa-homework/ 
+   pytest
+```
